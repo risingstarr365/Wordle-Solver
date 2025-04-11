@@ -14,7 +14,7 @@ A Python-based Wordle solver that helps you find the target word using a systema
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/wordle-solver.git
+git clone https://github.com/risingstarr365/wordle-solver.git
 cd wordle-solver
 ```
 
